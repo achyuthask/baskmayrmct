@@ -1,5 +1,10 @@
 # this is react mct
 # the project is pizza delivery app 
+# here four page i used udes routing
+## home page
+## orderpage
+## ordersucesspage
+## menu page
 # here i used react concepts like
 ## jsx
 ## use state
@@ -15,7 +20,7 @@
 # here in this app upon opening it 
   # shows fetchdata it takes some time
   # upon clickin add to cart it shows form page 
-  # after filling details on clicking submit button it shows sucedd 
+  # after filling details on clicking submit button it shows sucess page  
   # upon clicking menu page it shows lite data 
 
 
